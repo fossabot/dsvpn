@@ -1,4 +1,5 @@
 # ![DSVPN](https://raw.github.com/jedisct1/dsvpn/master/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Fdsvpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Fdsvpn?ref=badge_shield)
 
 DSVPN is a Dead Simple VPN, designed to address the most common use case for using a VPN:
 
@@ -149,3 +150,7 @@ The cryptographic primitives used in DSVPN are available as a standalone project
 None.
 
 This is not intended to be a replacement for GloryTun or WireGuard. This is a weekend project, and this is what I use, because it solves a problem I had. Extending it to solve different problems is not planned, but feel free to fork it and tailor it to your needs!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Fdsvpn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Fdsvpn?ref=badge_large)
